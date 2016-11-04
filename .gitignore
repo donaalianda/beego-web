@@ -1,0 +1,6 @@
+.vscode/
+Web.config
+HtmlPage.html
+beego-web.exe
+beegoweb.exe
+debug
